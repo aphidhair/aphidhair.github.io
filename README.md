@@ -1,2 +1,0 @@
-# aphidhair.github.io
-resume
